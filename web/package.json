@@ -26,7 +26,7 @@
     "emailjs-com": "^3.1.0",
     "gatsby": "^3.0.3",
     "gatsby-image": "^2.0.41",
-    "gatsby-plugin-image": "^1.0.0",
+    "gatsby-plugin-image": "^3.16.0",
     "gatsby-plugin-react-helmet": "^4.0.0",
     "gatsby-source-sanity": "^7.0.2",
     "gsap": "^3.7.0",
